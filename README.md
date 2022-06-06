@@ -76,7 +76,8 @@ Graphic Engine &amp; Game Engine open source list！
 * [DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) A modern cross-platform low-level 3D graphics library http://diligentgraphics.com/diligent-engine/ 
 * [three.js](https://github.com/mrdoob/three.js) JavaScript 3D library. https://threejs.org/  
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps 
-* [playcanvas](https://github.com/playcanvas/engine)  ast and lightweight WebGL game engine https://playcanvas.com/
+* [playcanvas](https://github.com/playcanvas/engine) Fast and lightweight WebGL game engine https://playcanvas.com/
+* [Harfang 3D](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX.
 
 ## Engine Plugin
 * [Graphics](https://github.com/Unity-Technologies/Graphics) Unity Graphics - Including Scriptable Render Pipeline
