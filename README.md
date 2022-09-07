@@ -77,6 +77,7 @@ Graphic Engine &amp; Game Engine open source list！
 * [three.js](https://github.com/mrdoob/three.js) JavaScript 3D library. https://threejs.org/  
 * [cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps 
 * [playcanvas](https://github.com/playcanvas/engine)  ast and lightweight WebGL game engine https://playcanvas.com/
+* [JNGL](https://github.com/jhasse/jngl) ightweight, cross-platform C++ 2D engine. Develop on Windows, Linux or OS X and deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 
 ## Engine Plugin
 * [Graphics](https://github.com/Unity-Technologies/Graphics) Unity Graphics - Including Scriptable Render Pipeline
